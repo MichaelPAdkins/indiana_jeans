@@ -1,5 +1,5 @@
 import { OwnJeansChoices } from "./OwnsJeans.js"
-import { SaveSubmission } from "./SaveSubmissions.js"
+import { SaveSubmission } from "./SaveSubmission.js"
 import { LocationTypeChoices } from "./UrbanDweller.js"
 
 const container = document.querySelector("#container")
