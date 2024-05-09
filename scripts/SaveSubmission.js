@@ -1,7 +1,7 @@
 import { saveSurveySubmission } from "./TransientState.js"
 
 const handleSurveySubmissionClick = (clickEvent) => {
-    if (clickEvent.target.Id === "saveSubmission") {
+    if (clickEvent.target.id === "saveSubmission") {
         saveSurveySubmission()
     }
 }
